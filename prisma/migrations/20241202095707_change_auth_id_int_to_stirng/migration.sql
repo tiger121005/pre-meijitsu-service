@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Apply" ALTER COLUMN "groupId" SET DATA TYPE TEXT;
